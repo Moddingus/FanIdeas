@@ -1,0 +1,3 @@
+displayName = Your Ideas
+author = Max
+version = 0.1
